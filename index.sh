@@ -181,7 +181,7 @@ function menu_options() {
             read -p "Enter the directory to clone the repository to: (Example:/home/user_name/directory_01)" CLONE_DIR
 
             # Set the SSH address of the repository
-            REPO_SSH="git@github.com:0x134134k/Slider.git"
+            REPO_SSH="git@github.com:6a6ak/AllinOne.git"
 
             # Create the directory if it doesn't exist
             mkdir -p "$CLONE_DIR"
